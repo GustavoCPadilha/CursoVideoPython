@@ -5,7 +5,8 @@ se o valor retornado por elas vai ser ou não formatado
 pela função moeda(), desenvolvida no desafio 108.
 """
 
-import moeda
+from utilidadescev import moeda
+
 
 preco = float(input("Digite um preço: R$"))
 
