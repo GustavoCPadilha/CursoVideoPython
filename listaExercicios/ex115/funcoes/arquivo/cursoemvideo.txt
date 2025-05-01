@@ -1,0 +1,6 @@
+eu;21
+voce;15
+dois;42
+filhos;25
+cachorro;73
+gustavo;1212
